@@ -37,3 +37,6 @@ function atualizaTabela() {
     const corpoTabela = document.querySelector('tbody');
     corpoTabela.innerHTML = linhas;
 }
+
+console.log(contatos);
+console.log(numeros);
